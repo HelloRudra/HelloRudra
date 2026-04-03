@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning android development
-- 👯 I’m looking to collaborate on new stacks
 - 🤔 I’m looking for help with AI dependent new stacks
 - 💬 Ask me about anything
 - 📫 How to reach me: mm.rudra88@gmail.com
