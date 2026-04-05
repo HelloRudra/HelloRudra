@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with AI dependent new stacks
 - 💬 Ask me about anything
 - 📫 How to reach me: mm.rudra88@gmail.com
-- 😄 Pronouns: Hakuna MaTaTa
 - ⚡ Fun fact: I still exist in this worls
 
 # 💻 Tech Stack:
