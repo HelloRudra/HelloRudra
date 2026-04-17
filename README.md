@@ -1,4 +1,4 @@
-## Hi there I'm Rajesh 👋
+## Hi there I'm Rajesh Rudra👋
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning android development
