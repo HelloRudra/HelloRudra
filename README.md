@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning android development
 - 🤔 I’m looking for help with AI dependent new stacks
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
+- Learning is everything
 - 📫 How to reach me: mm.rudra88@gmail.com
 
 
