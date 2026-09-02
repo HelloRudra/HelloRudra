@@ -21,23 +21,13 @@
 
 ## 👋 About Me
 
-```javascript
-const rudra = {
-  name: "Madan Mohan Rudra",
-  role: "Aspiring Full Stack Engineer",
-  focus: ["Web Development", "Machine Learning"],
-  currentlyLearning: ["React", "TypeScript", "Next.js", "Node.js"],
-  tools: ["Git", "GitHub", "AI-Assisted Coding"],
-  mindset: "Code • Learn • Build • Grow"
-};
-```
-
 - 💻 Aspiring Full Stack Engineer focused on modern web development
 - 🌱 Currently learning React, TypeScript, Next.js and Node.js
 - 🛠️ Building projects to improve practical development skills
 - 🎨 Interested in clean, responsive and user-friendly interfaces
 - 🤖 Exploring AI-assisted development and modern developer tools
 - 📚 Continuously learning and experimenting with new technologies
+
 
 ---
 
@@ -107,49 +97,7 @@ const rudra = {
 
 ---
 
-## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 TapGet
-Booking and e-ticket platform for hotels and transportation.
-
-**Stack:** HTML • Tailwind CSS • Python • MySQL
-
-</td>
-<td width="50%">
-
-### 🌧️ Rainfall Prediction
-Machine-learning project for rainfall prediction using Random Forest.
-
-**Stack:** Python • Pandas • Scikit-learn
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 Healthcare Appointment System
-Database-focused system for doctor schedules and patient appointments.
-
-**Stack:** Python • MySQL
-
-</td>
-<td width="50%">
-
-### 💼 OTHAO
-Mobile platform concept for connecting users with odd-job services.
-
-**Approach:** Agile SDLC
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📫 Connect With Me
 
