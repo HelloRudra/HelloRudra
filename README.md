@@ -5,15 +5,21 @@
 
 <br/>
 
-<a href="https://github.com/hellorudra">
-  <img src="https://img.shields.io/github/followers/hellorudra?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=236ad3" alt="GitHub followers" />
-</a>
-<a href="https://github.com/hellorudra?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github" alt="Repositories" />
-</a>
-<a href="https://linkedin.com/in/madan-mohan-rudra-b5780a321">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/madan-mohan-rudra-b5780a321" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mm.rudra88@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
 </div>
 
